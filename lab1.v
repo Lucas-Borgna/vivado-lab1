@@ -13,7 +13,7 @@ module lab1(
     assign led[1] = swt[1] & ~swt[2];
     assign led[3] = swt[2] & swt[3];
     assign led[2] = led[1] | led[3];
-    
-    assign led[7:4] = swt[7:4];
+    assign led[4] = ~swt[4];    
+    assign led[7:5] = swt[7:5];
     
 endmodule
