@@ -1,0 +1,15 @@
+Vivado Simulator 2016.4
+Time resolution is 1 ps
+LED output matched at                  60
+LED output matched at                 120
+LED output matched at                 180
+Stopped at time : 230 ns : File "C:/Users/lucas/OneDrive/PhD/NexysDDR4 tutorial/2015_2_artix7_sources/lab1/lab1_tb.v" Line 32
+LED output matched at                 240
+LED output matched at                 300
+LED output matched at                 360
+LED output matched at                 420
+LED output matched at                 480
+LED output matched at                 540
+LED output matched at                 600
+LED output matched at                 660
+LED output matched at                 720
